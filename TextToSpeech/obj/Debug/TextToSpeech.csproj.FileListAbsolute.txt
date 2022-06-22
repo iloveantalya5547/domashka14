@@ -1,0 +1,16 @@
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\MainWindow.g.cs
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\App.g.cs
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech_MarkupCompile.cache
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech_MarkupCompile.lref
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\MainWindow.baml
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.g.resources
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\dzerrm\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
